@@ -23,11 +23,28 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.menubar {
+  background-color: black;
+  border: solid white;
+  border-radius: 15px;
+  align: center;
+  width: 96%;
+  padding: 20px;
+  text-align: center;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.manny {
+  color: white;
+  text-align: left;
+  display: inline;
+  font-family: cursive;
+  font-size: 30px;
+  padding-left: 200px;
+  padding-right: 200px;
 }
