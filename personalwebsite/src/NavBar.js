@@ -30,12 +30,12 @@ class NavBar extends Component {
 
         <div class="colorlib-footer">
           <ul style={{display: 'inline'}}>
-            <li><a href="https://www.facebook.com/manny.shapir"><i class="icon-facebook2" target="_blank"></i></a></li>
-            <li><a href="https://github.com/mshapir" target="_blank"><i class="icon-github"></i></a></li>
-            <li><a href="https://www.instagram.com/mannyshapir/"><i class="icon-instagram" target="_blank"></i></a></li>
-            <li><a href="https://www.linkedin.com/in/mshapir/" target="_blank"><i class="icon-linkedin2"></i></a></li>
+            <li><a href="https://www.facebook.com/manny.shapir"><i class="icon-facebook2" target="_blank" rel="noopener noreferrer"></i></a></li>
+            <li><a href="https://github.com/mshapir" target="_blank" rel="noopener noreferrer"><i class="icon-github"></i></a></li>
+            <li><a href="https://www.instagram.com/mannyshapir/"><i class="icon-instagram" target="_blank" rel="noopener noreferrer"></i></a></li>
+            <li><a href="https://www.linkedin.com/in/mshapir/" target="_blank" rel="noopener noreferrer"><i class="icon-linkedin2"></i></a></li>
           </ul>
-          <p><small>Made with <i class="icon-heart" aria-hidden="true"></i> & <i class="icon-large icon-beer"></i> <p>Inspired by <a href="https://colorlib.com" target="_blank">Colorlib</a></p></small></p>
+          <p><small>Made with <i class="icon-heart" aria-hidden="true"></i> & <i class="icon-large icon-beer"></i> <p>Inspired by <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a></p></small></p>
         </div>
 
       </aside>

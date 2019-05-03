@@ -17,7 +17,7 @@ class Projects extends Component {
           <div class="row">
             <div class="col-md-9 pb-0 animate-box" data-animate-effect="fadeInLeft">
               <div class="project">
-              <iframe width="560" height="300" src="https://www.youtube.com/embed/RDPoYTMQKiU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+              <iframe title="parkme" width="560" height="300" src="https://www.youtube.com/embed/RDPoYTMQKiU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
             </div>
             <div class="col-md-3 animate-box" data-animate-effect="fadeInRight">
@@ -47,7 +47,7 @@ class Projects extends Component {
             </div>
             <div class="col-md-9 pb-0 animate-box" data-animate-effect="fadeInBottom">
               <div class="project">
-                <iframe width="560" height="300" src="https://www.youtube.com/embed/bXue5ycWA3k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe title="musicapp" width="560" height="300" src="https://www.youtube.com/embed/bXue5ycWA3k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
             </div>
           </div>
