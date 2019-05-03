@@ -37,13 +37,14 @@ class Education extends Component {
                   <div class="panel panel-default">
                       <div class="panel-heading" role="tab" id="headingTwo">
                           <h4 class="panel-title">
-                              <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Python Course
+                              <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Python Bootcamp
                               </a>
                           </h4>
                       </div>
                       <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                           <div class="panel-body">
-                              <p>Udemy</p>
+                              <p>Udemy Python Bootcamp: Go from zero to hero in Python 3</p>
+                              <p>Some covered topics include: Command Line Basics, Installing Python, Running Python Code, Strings, Lists, Dictionaries, Tuples, Sets, Number Data Types, Print Formatting, Functions, Scope, args/kwargs, Built-in Functions, Debugging and Error Handling, Modules, External Modules, Object Oriented Programming, Inheritance, Polymorphism, File I/O, Advanced Methods, Unit Tests</p>
                           </div>
                       </div>
                   </div>
