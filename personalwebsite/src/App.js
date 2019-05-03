@@ -1,10 +1,8 @@
 import React from 'react';
-import MenuBar from './MenuBar';
 import NavBar from './NavBar';
 import Projects from './Projects';
 import About from './About';
 import Jumbotron from './Jumbotron';
-import Resume from './Resume';
 import Contact from './Contact';
 import Services from './Services';
 import Skills from './Skills';
@@ -12,9 +10,7 @@ import Education from './Education'
 import WorkExp from './WorkExp';
 import Counter from './Counter';
 import Blogs from './Blogs';
-import logo from './logo.svg';
 import './App.css';
-import {Route, Switch, withRouter} from 'react-router-dom';
 
 class App extends React.Component {
 
